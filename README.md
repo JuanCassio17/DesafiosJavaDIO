@@ -1,7 +1,9 @@
 # DesafiosJavaDIO
-Desafios da Digital Innovation One - Introdução a Programação Java
+Desafios da Digital Innovation One
 
-Desafio 01: VISITA NA FEIRA
+Desafios: Introdução a Programação Java
+
+Desafio 01: VISITA NA FEIRA;
 
 Você está na feira com a sua sacola e parou em uma banca. O feirante lhe entregou pimentões amarelos e vermelhos. Agora iremos somar os pimetões amarelos e vermelhos para descobrir o total de pimentões na sacola.  Você receberá 2 inteiros que devem ser lidos e armazenados nas variáveis A (pimentões amarelos) e B (pimentões vermelhos). Faça a soma de A e B atribuindo o seu resultado na variável X (total de pimentões). Apresente X como descrito na mensagem de exemplo abaixo. Não apresente outra mensagem além da mensagem especificada.
 
@@ -11,7 +13,7 @@ A entrada contém 2 valores inteiros, separados por um espaço.
 Saída
 Imprimir a mensagem "X = " (sendo a letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. Assegure que exista um espaço antes e depois do sinal de igualdade.
 
-Desafio 02: MULTIPLICAÇÃO SIMPLES
+Desafio 02: MULTIPLICAÇÃO SIMPLES;
 
 Você receberá dois valores inteiros. Faça a leitura e em seguida calcule o produto entre estes dois valores. Atribua esta operação à variável PROD, mostrando esta de acordo com a mensagem de saída esperada (exemplo abaixo).   
 
