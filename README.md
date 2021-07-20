@@ -1,4 +1,3 @@
-# DesafiosJavaDIO
 # Desafios da Digital Innovation One
 
 # Desafios: Introdução a Programação Java
